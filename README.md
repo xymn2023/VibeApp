@@ -7,7 +7,7 @@
 [![Min SDK](https://img.shields.io/badge/minSdk-29-brightgreen.svg)]()
 [![Status](https://img.shields.io/badge/status-In%20Development-orange.svg)]()
 
-[**中文文档**](README_CN.md)
+[**中文文档**](README_CN.md)  [**下载地址**](https://github.com/xymn2023/VibeApp/releases/tag/Debug)
 
 <p align="center">
   <img src="docs/assets/banner.png" alt="VibeApp Banner" width="1650"/>
